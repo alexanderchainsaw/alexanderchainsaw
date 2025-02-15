@@ -5,14 +5,12 @@
 </div>  
   
 
-### <div align="center">Hi, I'm Alexander</div>  
+# Hi, I'm Alexander
   
-
-
 <br/>  
 
 
-## <div align="center"> My current tech stack  </div>  
+##  My current tech stack
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
